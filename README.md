@@ -37,34 +37,18 @@
 
 learning-management-system/
 │
-├── src/                          # Source files
-│   ├── frontend/                 # Frontend application
-│   │   ├── components/           # Reusable UI components
-│   │   │   ├── common/
-│   │   │   ├── Header.js         # Header component
-│   │   │   └── Footer.js         # Footer component
-│   │   │
-│   │   ├── pages/                # Application pages
-│   │   │   ├── auth/
-│   │   │   │   ├── Login.js      # User login page
-│   │   │   │   └── Register.js   # User registration page
-│   │   │   ├── Dashboard.js      # Main user interface with overview
-│   │   │   ├── Home.js           # Landing page with course listings
-│   │   │   └── Profile.js        # User profile page
-│   │   │
-│   │   ├── context/              # Context API (state management)
-│   │   │   └── AuthContext.js    # Authentication context
-│   │   │
-│   │   ├── services/             # API services
-│   │   │   └── apis.js           # API handling
-│   │   │
-│   │   └── App.js                # Main React entry point
-│   │
-│   └── backend/                  # Backend application
-│       ├── server.js             # Backend server
-│       └── package.json          # Backend dependencies
+├── frontend/       
+│   ├── components/     # Reusable UI (Header, Footer, etc.)
+│   ├── pages/          # App pages (Login, Register, Dashboard, Home, Profile)
+│   ├── context/        # State management (AuthContext)
+│   ├── services/       # API services (apis.js)
+│   └── App.js          # Main React entry point
 │
-└── README.md                     # Project documentation
+├── backend/           
+│   ├── server.js       # Backend server
+│   └── package.json    # Backend dependencies
+│
+└── README.md           # Project documentation
 
  
  ## Key Components
