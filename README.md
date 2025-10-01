@@ -3,7 +3,7 @@
 
  ## Features
 
-· **Interactive Dashboard** - Track progress and course enrollment
+· **Interactive Dashboard** - Track progress and course enrollment-
 · **Course Management** - Browse and enroll in available courses
 · **Progress Tracking** - Monitor learning journey and achievements
 · **User Profile** - Personalize learning experience
