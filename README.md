@@ -37,36 +37,34 @@
 
 learning-management-system/
 │
-├── src/                         # Source files
-│   ├── frontend/                # Frontend application
-│   │   ├── components/          # Reusable UI components
+├── src/                          # Source files
+│   ├── frontend/                 # Frontend application
+│   │   ├── components/           # Reusable UI components
 │   │   │   ├── common/
-│   │   │   ├── Header.js
-│   │   │   ├── Footer.js
+│   │   │   ├── Header.js         # Header component
+│   │   │   └── Footer.js         # Footer component
 │   │   │
-│   │   ├── pages/               # Application pages
+│   │   ├── pages/                # Application pages
 │   │   │   ├── auth/
-│   │   │   │   ├── Login.js
-│   │   │   │   └── Register.js
-│   │   │   ├── Dashboard.js
-│   │   │   ├── Home.js
-│   │   │   └── Profile.js
+│   │   │   │   ├── Login.js      # User login page
+│   │   │   │   └── Register.js   # User registration page
+│   │   │   ├── Dashboard.js      # Main user interface with overview
+│   │   │   ├── Home.js           # Landing page with course listings
+│   │   │   └── Profile.js        # User profile page
 │   │   │
-│   │   ├── context/             # Context API for state management
-│   │   │   └── AuthContext.js
+│   │   ├── context/              # Context API (state management)
+│   │   │   └── AuthContext.js    # Authentication context
 │   │   │
-│   │   ├── services/            # API services
-│   │   │   └── apis.js
+│   │   ├── services/             # API services
+│   │   │   └── apis.js           # API handling
 │   │   │
-│   │   └── App.js               # Main React entry point
+│   │   └── App.js                # Main React entry point
 │   │
-│   └── backend/                 # Backend application
-│       ├── server.js
-│       └── package.json
+│   └── backend/                  # Backend application
+│       ├── server.js             # Backend server
+│       └── package.json          # Backend dependencies
 │
-└── README.md                    # Project documentation
-
-
+└── README.md                     # Project documentation
 
  ## Key Components
 
