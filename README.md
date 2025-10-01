@@ -34,7 +34,7 @@
 - **VS Code** - Development environment
 
 ##  Project Structure
-
+```
 learning-management-system/
 ├──frontend/
 │├── src/
@@ -62,7 +62,7 @@ learning-management-system/
 │└── (other backend files)
 └──README.md
 
-
+```
  
  ## Key Components
 
