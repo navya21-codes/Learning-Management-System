@@ -36,31 +36,35 @@
 ##  Project Structure
 
 learning-management-system/
-├──frontend/
-│├── src/
-││   ├── components/
-││   │   ├── auth/
-││   │   │   ├── Login.js
-││   │   │   └── Register.js
-││   │   └── common/
-││   │       ├── Header.js
-││   │       └── Footer.js
-││   ├── pages/
-││   │   ├── Dashboard.js
-││   │   ├── Home.js
-││   │   ├── Profile.js
-││   │   └── courses/
-││   │       └── Courses.js
-││   ├── context/
-││   │   └── AuthContext.js
-││   ├── services/
-││   │   └── api.js
-││   └── App.js
-├──backend/
-│├── server.js
-│├── package.json
-│└── (other backend files)
-└──README.md
+│
+├── src/                         # Source files
+│   ├── frontend/                # Frontend application
+│   │   ├── components/          # Reusable UI components
+│   │   │   ├── common/
+│   │   │   ├── Header.js
+│   │   │   ├── Footer.js
+│   │   │
+│   │   ├── pages/               # Application pages
+│   │   │   ├── auth/
+│   │   │   │   ├── Login.js
+│   │   │   │   └── Register.js
+│   │   │   ├── Dashboard.js
+│   │   │   ├── Home.js
+│   │   │   └── Profile.js
+│   │   │
+│   │   ├── context/             # Context API for state management
+│   │   │   └── AuthContext.js
+│   │   │
+│   │   ├── services/            # API services
+│   │   │   └── apis.js
+│   │   │
+│   │   └── App.js               # Main React entry point
+│   │
+│   └── backend/                 # Backend application
+│       ├── server.js
+│       └── package.json
+│
+└── README.md                    # Project documentation
 
 
 
