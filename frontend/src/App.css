@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ADD YOUR BUTTON STYLES BELOW THIS LINE */
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  margin-top: 30px;
+  padding: 0 20px;
+}
+
+.btn {
+  padding: 18px 36px; /* Large padding for bigger buttons */
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px; /* Larger font size */
+  font-weight: 600; /* Bolder text */
+  transition: all 0.3s ease;
+  min-width: 160px; /* Minimum width */
+}
+
+.get-started {
+  background-color: #007bff;
+  color: white;
+}
+
+.get-started:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.explore-courses {
+  background-color: #6c757d;
+  color: white;
+  border: 1px solid #6c757d;
+}
+
+.explore-courses:hover {
+  background-color: #545b62;
+  transform: scale(1.05);
+}
