@@ -90,7 +90,7 @@ learning-management-system/
 
 ![Home](https://raw.githubusercontent.com/navya21-codes/Learning-Management-System/refs/heads/main/Home.png)
 
-*****Login Page*****
+*****Login/Register Page*****
 
 ![Login](https://raw.githubusercontent.com/navya21-codes/Learning-Management-System/refs/heads/main/login.png)
 
