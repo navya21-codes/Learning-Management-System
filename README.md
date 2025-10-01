@@ -1,12 +1,15 @@
 # Learning-Management-System
 "Comprehensive learning ecosystem featuring course management, progress tracking, and interactive learning tools. Built for educators and learners in the digital age."
 
- ## Features
+ ## 🎯 Features
 
-· **Interactive Dashboard** - Track progress and course enrollment-
-· **Course Management** - Browse and enroll in available courses
-· **Progress Tracking** - Monitor learning journey and achievements
-· **User Profile** - Personalize learning experience
+- **Interactive Dashboard** - Track progress and course enrollment
+
+- **Course Management** - Browse and enroll in available courses
+
+- **Progress Tracking** - Monitor learning journey and achievements
+
+- **User Profile** - Personalize learning experience
 
 
 
