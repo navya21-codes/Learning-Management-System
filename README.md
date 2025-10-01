@@ -86,11 +86,14 @@ learning-management-system/
 · **Backend API**: http://localhost:5000
 
 ## Output Preview
-*****Home*****
+*****Home Page*****
+
 ![Home](https://raw.githubusercontent.com/navya21-codes/Learning-Management-System/refs/heads/main/Home.png)
 
-*****Login*****
+*****Login Page*****
+
 ![Login](https://raw.githubusercontent.com/navya21-codes/Learning-Management-System/refs/heads/main/login.png)
 
 *****Dashboard*****
+
 ![Dashboard](https://raw.githubusercontent.com/navya21-codes/Learning-Management-System/refs/heads/main/Dashboard.png)
