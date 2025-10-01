@@ -66,6 +66,7 @@ learning-management-system/
 │
 └── README.md                     # Project documentation
 
+ 
  ## Key Components
 
 ****Frontend Components****
