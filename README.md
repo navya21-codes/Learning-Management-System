@@ -68,22 +68,22 @@ learning-management-system/
 
 ****Frontend Components****
 
-· Dashboard - Main user interface with overview.
-· Login/Register - Authentication pages.
-· Home - Landing page with course listings.
-· Courses - Course management and display.
-· Profile - User profile management.
-· Header/Footer - Navigation and site information.
+- **Dashboard** - Main user interface with overview.
+- **Login/Register** - Authentication pages.
+- **Home** - Landing page with course listings.
+- **Courses** - Course management and display.
+- **Profile** - User profile management.
+- **Header/Footer** - Navigation and site information.
 
 ****Backend Features****
 
-· Authentication API - User login/registration.
-· Course Management API - CRUD operations for courses.
-· User Management API - User profile and progress tracking.
-· Security - JWT-based authentication.
+- **Authentication API** - User login/registration.
+- **Course Management API** - CRUD operations for courses.
+- **User Management API** - User profile and progress tracking.
+- **Security** - JWT-based authentication.
 
-· **Frontend**: http://localhost:3000
-· **Backend API**: http://localhost:5000
+- **Frontend**- http://localhost:3000
+- **Backend API**- http://localhost:5000
 
 ## Output Preview
 *****Home Page*****
