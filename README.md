@@ -2,20 +2,20 @@
 
 The **Learning Management System (LMS)** is a ***full-stack web application*** where users can register, log in, and access courses. It is ***built using React for the frontend and Node.js with Express for the backend.***
 
-***Features***
+# Features
 - User Registration and Login
 - Course viewing system
 - User dashboard
 - Authentication using Context API
 - Responsive user interface
  
-*****Technologies Used*****
- # Frontend
+# Technologies Used
+ ****Frontend****
 - React.js
 - HTML
 - CSS
 - JavaScript
- # Backend 
+ ****Backend****
 - Node.js
 - Express.js
 
