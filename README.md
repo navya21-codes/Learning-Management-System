@@ -8,14 +8,14 @@ The **Learning Management System (LMS)** is a ***full-stack web application*** w
 - User dashboard
 - Authentication using Context API
 - Responsive user interface
-- 
+ 
 *****Technologies Used*****
-- **Frontend** -
+ # Frontend
 - React.js
 - HTML
 - CSS
 - JavaScript
-- **Backend** -
+ # Backend 
 - Node.js
 - Express.js
 
